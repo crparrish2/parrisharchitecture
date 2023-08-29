@@ -1,264 +1,89 @@
-<meta property="og:title" content="TULIP" />
-<meta property="og:image" content="images/tulip.jpg" />
-<link rel="icon" href="TULIP.png">
+<!DOCTYPE html>
 <html>
-  <head>
-    <title> WE ARE TULIP | High Strangeness</title>
-    <meta name=”description” content=”Symphonic Groove Metal From The Edge Of The Universe. New full-length record out 04.04.2020.”>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        .imgbox {
-            display: grid;
-              max-width: 1500px;
-          margin: auto;
-        }
-        .center-fit {
-          width: auto;  
-          max-width: 100%;
-            max-height: 100%;
-            margin: auto;
-        }
-     
+<head>
 
-    </style>
+<!-- styles needed by jScrollPane -->
+<link type="text/css" href="styles/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+
+<link type="text/css" href="styles/style.css" rel="stylesheet" media="all" />
+
+<style type="text/css">
+
+.scroll {
+	height: 500px;
+	max-height: 200px;
+	width: 300px;
+	overflow: auto;
+	margin-left:100px;
+	}
+	
+.scroll p {
+	width:1000px;
+	}
+	
+
+
+
+</style>
+
+
+
+<!-- latest jQuery direct from google's CDN -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
+<!-- the mousewheel plugin - optional to provide mousewheel support -->
+<script type="text/javascript" src="scripts/jquery.mousewheel.js"></script>
+
+<!-- the jScrollPane script -->
+<script type="text/javascript" src="scripts/jquery.jscrollpane.min.js"></script>
+    <script type="text/javascript" src="scripts/onload.js"></script>
+
+<script type="text/javascript">
+
+
+function cycleImages(){
+      var $active = $('#slideshow .active');
+      var $next = ($active.next().length > 0) ? $active.next() : $('#slideshow img:first');
+
+      $active.fadeOut(1500).removeClass('active');
+      $active=$next;
+      $active.fadeIn(1500);
+      $active.addClass('active');
+    }
+
+$(function(){
+
+    startup();
+
+	// run every 7s
+	$('#slideshow img').hide();
+	$('#slideshow .active').fadeIn(1500);
+	setInterval('cycleImages()', 6000);
+
+});
+
+</script>
+<title>Parrish Architecture</title>
 </head>
-  <body bgcolor=black>
-    
-   
-    
-      <div class="imgbox">
-        <img class="center-fit" src='images/TULIP_WIDE_WEB.jpg'></div>
-    <br>
-    <p style="text-align:center;">
-      <a href="https://music.apple.com/us/artist/tulip/1436330054"><img src="images/01.jpg" title="Apple Music" alt="Apple Music"></a>
-      <a href="https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY?si=rh6ppeI0R6KX4psq_lRtzw"><img src="images/02.jpg" title="Spotify" alt="Spotify"></a>
-      <a href="https://music.youtube.com/channel/UCwgzWH69ATjCSlByfdHP77Q?feature=share"><img src="images/03.jpg" title="YouTube Music" alt="YouTube Music"></a>
-      <a href="https://www.amazon.com/gp/product/B08591YW15/ref=dm_ws_sp_ps_dp"><img src="images/04.jpg" title="Amazon Music" alt="Amazon Music"></a>
-      <a href="https://www.youtube.com/c/wearetulip"><img src="images/05.jpg" title="YouTube" alt="YouTube"></a>
-     <br>
-<br>
-  <br>
-  <br>   
- <img class="center-fit" src='images/line.jpg'>
-<br>
-  <br>
+<body>
 
-<br>
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/-hQ2UeZed5k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-<br>
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/H6TFBT7M6YQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-<br>
+<div id="header" class="clearfix">
+    <div id="logo"><a href="index.html"><span class="red-title">PARRISH</span> ARCHITECTURE</a></div>
+    <ul id="menu">
+        <li><a href="portfolio.html">PORTFOLIO</a></li>
+        <li><a href="profile.html">PROFILE</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+</div>
 
- <iframe width="853" height="480" src="https://www.youtube.com/embed/_AeQXizjyCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-  <br>
-
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/sDvLicwDVM0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-      <br>
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/JmwruZ9onfY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-
-
-        <br>
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/732J6rEzIHs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-  <br>
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/q99ukeAsR60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-  <br>
-
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/EegcrP5KIQI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-  <br>
-              <iframe width="853" height="480" src="https://www.youtube.com/embed/OUFeGUHa504" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-    <br>
-                <iframe width="853" height="480" src="https://www.youtube.com/embed/_j7B5cjPAzc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-<br>
-                <iframe width="853" height="480" src="https://www.youtube.com/embed/BrLnzwFIlLA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    <br>
-<br>
-  <br>
-  <img class="center-fit" src='images/line.jpg'>
-  <br>
-  <br>
-  <br>
-    <p style="text-align:center;">
-<script charset="utf-8" src="https://widget.bandsintown.com/main.min.js"></script><a class="bit-widget-initializer" data-artist-name="TULIP" data-display-local-dates="false" data-display-past-dates="false" data-auto-style="false" data-text-color="#FFFFFF" data-link-color="#ff00c3" data-background-color="rgba(0,0,0,0)" data-display-limit="15" data-link-text-color="#FFFFFF" data-display-lineup="false" data-display-play-my-city="false" data-separator-color="rgba(124,124,124,0.25)"></a>
-
-      <br>
-      <img class="center-fit" src='images/line.jpg'>
-      <br>
-      <br>
-      <br>
-      <br>
-
-    </p>
-    <div id='collection-component-cf53476630a'></div>
-    <script type="text/javascript">
-    /*<![CDATA[*/
-
-    (function () {
-      var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-      if (window.ShopifyBuy) {
-        if (window.ShopifyBuy.UI) {
-          ShopifyBuyInit();
-        } else {
-          loadScript();
-        }
-      } else {
-        loadScript();
-      }
-
-      function loadScript() {
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = scriptURL;
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-        script.onload = ShopifyBuyInit;
-      }
-
-      function ShopifyBuyInit() {
-        var client = ShopifyBuy.buildClient({
-          domain: 'monolith-canada.myshopify.com',
-          storefrontAccessToken: '813cfd9bccffde1739b8c653206f15dd',
-        });
-
-        ShopifyBuy.UI.onReady(client).then(function (ui) {
-          ui.createComponent('collection', {
-            id: 135945322538,
-            node: document.getElementById('collection-component-cf53476630a'),
-            moneyFormat: '%24%7B%7Bamount%7D%7D',
-            options: {
-  "product": {
-    "variantId": "all",
-    "contents": {
-      "imgWithCarousel": false,
-      "variantTitle": false,
-      "description": false,
-      "buttonWithQuantity": false,
-      "quantity": false
-    },
-    "styles": {
-      "product": {
-        "@media (min-width: 601px)": {
-          "max-width": "calc(25% - 20px)",
-          "margin-left": "20px",
-          "margin-bottom": "50px"
-        },
-        "imgWrapper": {
-          "position": "relative",
-          "height": "0",
-          "padding-top": "calc(75% + 15px)"
-        },
-        "img": {
-          "height": "calc(100% - 15px)",
-          "position": "absolute",
-          "left": "0",
-          "right": "0",
-          "top": "0"
-        }
-      },
-      "button": {
-        "background-color": "#ff00f5",
-        ":hover": {
-          "background-color": "#e600dd"
-        },
-        ":focus": {
-          "background-color": "#e600dd"
-        }
-      }
-    }
-  },
-  "cart": {
-    "contents": {
-      "button": true
-    },
-    "styles": {
-      "button": {
-        "background-color": "#ff00f5",
-        ":hover": {
-          "background-color": "#e600dd"
-        },
-        ":focus": {
-          "background-color": "#e600dd"
-        }
-      },
-      "footer": {
-        "background-color": "#ffffff"
-      }
-    }
-  },
-  "modalProduct": {
-    "contents": {
-      "img": false,
-      "imgWithCarousel": true,
-      "variantTitle": false,
-      "buttonWithQuantity": true,
-      "button": false,
-      "quantity": false
-    },
-    "styles": {
-      "product": {
-        "@media (min-width: 601px)": {
-          "max-width": "100%",
-          "margin-left": "0px",
-          "margin-bottom": "0px"
-        }
-      },
-      "button": {
-        "background-color": "#ff00f5",
-        ":hover": {
-          "background-color": "#e600dd"
-        },
-        ":focus": {
-          "background-color": "#e600dd"
-        }
-      }
-    }
-  },
-  "toggle": {
-    "styles": {
-      "toggle": {
-        "background-color": "#ff00f5",
-        ":hover": {
-          "background-color": "#e600dd"
-        },
-        ":focus": {
-          "background-color": "#e600dd"
-        }
-      }
-    }
-  },
-  "productSet": {
-    "styles": {
-      "products": {
-        "@media (min-width: 601px)": {
-          "margin-left": "-20px"
-        }
-      }
-    }
-  }
-}
-          });
-        });
-      }
-    })();
-    /*]]>*/
-    </script>
-  <br>
-  <img class="center-fit" src='images/line.jpg'>
-  <br>
-   <br>
-    <p style="text-align:center;">
-      <a href="https://facebook.com/wearetulipofficial"><img src="images/facebook.jpg" title="facebook" alt="facebook"></a>
-      <a href="https://twitter.com/wearetulip"><img src="images/twitter.jpg" title="twitter" alt="twitter"></a>
-      <a href="https://instagram.com/wearetulip"><img src="images/instagram.jpg" title="instagram" alt="instagram"></a>
-      <br>
-  </body>
+<div id="slideshow">
+	<img class="active" src="images/opening/Clairfield 1.jpg" />
+	<img src="images/opening/GC 1.jpg" />
+	<img src="images/opening/GC 2.jpg" />
+	<img src="images/opening/Paris 3.jpg" />
+	<img src="images/opening/PE 1.jpg" />
+	<img src="images/opening/VBA RC 8.jpg" />
+</div>
+</body>
 </html>
-
-    <br>
-     <p style="text-align:center; font-size: 12px;
-  margin-top: 0;
-  font-family: 'Arial', serif;
-  color: #fff;
-               padding: 4px;">TULIP 2020 All Rights Reserved</p>
-      <br>
-      <br>

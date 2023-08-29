@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- styles needed by jScrollPane -->
+    <link type="text/css" href="styles/jquery.jscrollpane.css" rel="stylesheet" media="all"/>
+
+    <link type="text/css" href="styles/style.css" rel="stylesheet" media="all"/>
+
+    <style type="text/css">
+
+        #container {
+            min-width: 1100px; /* THIS IS THE VALUE TO CHANGE TO ACCOMMODATE HEADLINE WIDTHS */
+        }
+
+        .scroll {
+            height: 537px;
+            overflow: auto;
+        }
+
+        .inner-scroll {
+            border-top: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
+            height: 526px;
+            width: 4800px;
+        }
+
+        .portfolio-pictures{
+            margin: 13px 0 ;
+        }
+
+        .portfolio-pic {
+            margin: 0;
+            margin-left:13px;
+        }
+
+        .profile-text {
+            display: none;
+        }
+
+        .profile-text b {
+            font-weight: normal;
+            font-family: 'Arial Black';
+        }
+
+        p {
+            margin-bottom: 23px;
+        }
+
+
+    </style>
+
+
+    <!-- latest jQuery direct from google's CDN -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
+    <!-- the mousewheel plugin - optional to provide mousewheel support -->
+    <script type="text/javascript" src="scripts/jquery.mousewheel.js"></script>
+
+    <!-- the jScrollPane script -->
+    <script type="text/javascript" src="scripts/jquery.jscrollpane.min.js"></script>
+    <script type="text/javascript" src="scripts/onload.js"></script>
+    <script type="text/javascript">
+
+
+        $(function () {
+
+            startup();
+
+            $('.scroll')
+
+                    .bind(
+                    'jsp-scroll-x',
+                    function (event, scrollPositionX, isAtLeft, isAtRight) {
+                        var x = scrollPositionX;
+                        var title1Pos = 0;
+                        var title2Pos = 628;
+                        var title3Pos = 1585;
+                        var title4Pos = 2770;
+
+                        var infade = 240;
+
+                        var diff;
+                        var opac;
+
+                        if (x >= (title1Pos - infade) && x < (title2Pos - infade)) {
+                            diff = x - title1Pos;
+                            opac = 1;
+
+
+                            if (x < (title1Pos)) {
+                                diff = title1Pos - x;
+                                opac = 1 - diff / infade;
+                            }
+                            else if (x >= (title2Pos - 2 * infade)) {
+                                diff = (title2Pos - infade) - x;
+                                opac = diff / infade;
+                            }
+
+                            $('.title').hide();
+                            $('#title1').show().css({ opacity:opac });
+                        }
+                        else if (x >= (title2Pos - infade) && x < (title3Pos - infade)) {
+                            diff = x - title2Pos;
+                            opac = 1;
+
+
+                            if (x < (title2Pos)) {
+                                diff = title2Pos - x;
+                                opac = 1 - diff / infade;
+                            }
+                            else if (x >= (title3Pos - 2 * infade)) {
+                                diff = (title3Pos - infade) - x;
+                                opac = diff / infade;
+                            }
+
+                            $('.title').hide();
+                            $('#title2').show().css({ opacity:opac });
+                        }
+                        else if (x >= (title3Pos - infade) && x < (title4Pos - infade)) {
+                            diff = x - title3Pos;
+                            opac = 1;
+
+
+                            if (x < (title3Pos)) {
+                                diff = title3Pos - x;
+                                opac = 1 - diff / infade;
+                            }
+                            else if (x >= (title4Pos - 2 * infade)) {
+                                diff = (title4Pos - infade) - x;
+                                opac = diff / infade;
+                            }
+
+                            $('.title').hide();
+                            $('#title3').show().css({ opacity:opac });
+                        }
+                        else if (x >= (title4Pos - infade)) {
+                            diff = x - title4Pos;
+                            opac = 1;
+
+                            if (x < (title4Pos)) {
+                                diff = title4Pos - x;
+                                opac = 1 - diff / infade;
+                            }
+
+                            $('.title').hide();
+                            $('#title4').show().css({ opacity:opac });
+                        }
+                    }
+            )
+        });
+
+    </script>
+    <title>Parrish Architecture</title>
+</head>
+<body>
+
+<div id="header" class="clearfix">
+    <div id="logo"><a href="index.html"><span class="red-title">PARRISH</span> ARCHITECTURE</a></div>
+    <ul id="menu">
+        <li><a href="portfolio.html">PORTFOLIO</a></li>
+        <li><a href="profile.html">PROFILE</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+</div>
+
+<div id="container">
+    <div class="scroll">
+        <div class="inner-scroll">
+            <div class="portfolio-pictures clearfix">
+                <div id="whoweare" class="portfolio-pic">
+                    <img src="images/profile/Profile 1-with text.jpg" />
+
+                    <div class="profile-text">
+                        <p><b>Parrish Architecture</b> is a small group of skilled people working together under the creative direction of David Parrish, Architect.</p>
+                        <p>We aim to practise architecture and execute design direction at the highest level, collaborating with discerning clients and specialists to create a diversity of exceptional and visually compelling buildings, interiors, landscapes and urban environments.</p>
+                        </div>
+                </div>
+
+                <div id="7principles" class="portfolio-pic">
+                    <img src="images/profile/Profile 2-with text.jpg" />
+
+                    <div class="profile-text">
+
+                    </div>
+                </div>
+
+                <div id="whatwedo" class="portfolio-pic">
+                    <img src="images/profile/Profile 3-with text.jpg" />
+
+                    <div class="profile-text">
+
+                    </div>
+                </div>
+
+                <div class="portfolio-pic">
+                    <img src="images/profile/Profile 4.jpg" />
+                </div>
+
+                <div id="leadership" class="portfolio-pic">
+                    <img src="images/profile/Profile 5-with text.jpg" />
+
+                    <div class="profile-text">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="titles">
+    <div id="title1" class="title active"><img src="images/profile/who_we_are.jpg"/></div>
+    <div id="title2" class="title"><img src="images/profile/7_principles.jpg"/></div>
+    <div id="title3" class="title"><img src="images/profile/what_we_do.jpg"/></div>
+    <div id="title4" class="title"><img src="images/profile/leadership.jpg"/></div>
+</div>
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.bowsoft.com/">space jam 5s</a> <a href="http://www.marchinc.org/">jordan 11 low bred</a> <a href="http://atthebeachportraits.com/">space jam 5s</a> <a href="http://www.harmonyonline.com/links.php/">space jam 5s</a> <a href="http://mountainretreatgangtok.com/category/destinations">cement tongue 5s</a> <a href="http://precisionland.net/">low bred 11s</a> <a href="http://atthebeachportraits.com/">space jam 5s</a> <a href="http://mprint180.com/">low bred 11s</a> <a href="http://www.asia-pacific.com/">cement tongue 5s</a> <a href="http://www.medialight.ir/?page_id=3941">space jam 5s</a> <a href="http://www.modernmasonry.com/">jordan 5 cement tongue</a> <a href="http://arideocean.com/portfolio.php">space jam 5s</a> <a href="http://www.harmonyonline.com/links.php/">jordan 5 cement tongue</a> <a href="http://mountainretreatgangtok.com/category/destinations">cement tongue 5s</a> <a href="http://www.tcactionweb.org/joomla/index.php/weatherization">jordan 11 low bred</a> <a href="http://atthebeachportraits.com/">space jam 5s</a> <a href="http://www.ecommercejuice.com/software/">space jam 5s</a> <a href="http://kifocan.vn/index.php/investor-relation/">cement tongue 5s</a> <a href="http://fullcore.com/">jordan 5 cement tongue</a> <a href="http://atthebeachportraits.com/">space jam 5s</a> <a href="http://www.windowvancouver.com/">low bred 13s</a> <a href="https://www.pinterest.com/buylowbred11s/new-air-jordan-11-low-citrus-gs-retro-cheap-sale-o/">jordan 11 low citrus</a> <a href="http://www.vinegaroonmoon.com/">low bred 13s</a> <a href="http://www.plantabbsproducts.com/">low citrus 11s</a> <a href="https://www.pinterest.com/buylowbred11s/new-air-jordan-11-low-citrus-gs-retro-cheap-sale-o/">low citrus 11s</a> <a href="http://www.termscout.com/blog/">Jordan retro 11</a> <a href="http://watc.tv/babbieshouse/">low bred 13s</a> <a href="http://www.vinegaroonmoon.com/">low bred 13s</a> <a href="http://www.glennlyons.com/">jordan 11 low citrus</a> <a href="http://servingkidshope.org/sponsors/">low citrus 11s</a> <a href="https://www.pinterest.com/buylowbred11s/new-air-jordan-11-low-citrus-gs-retro-cheap-sale-o/">low citrus 11s</a> <a href="http://www.glassimpressions.com/">jordan 11 low citrus</a> <a href="http://www.cpmechanics.com/">Jordan retro 11</a> <a href="http://imprint180.com/events/">low bred 13s</a> <a href="http://www.vinegaroonmoon.com/">low citrus 11s</a> <a href="http://www.glassimpressions.com/">jordan 11 low citrus</a> <a href="http://www.termscout.com/blog/">Jordan retro 11</a> <a href="https://www.pinterest.com/buylowbred11s/new-release-air-jordan-13-low-bred-retro-hot-sale/">jordan 13 low bred</a> <a href="https://www.pinterest.com/buylowbred11s/new-release-air-jordan-13-low-bred-retro-hot-sale/">jordan 13 low bred</a> <a href="http://www.therangetraining.com/">jordan 13 low bred</a></div></body>
+</html>

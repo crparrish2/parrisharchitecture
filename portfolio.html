@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- styles needed by jScrollPane -->
+<link type="text/css" href="styles/jquery.jscrollpane.css" rel="stylesheet" media="all"/>
+
+<link type="text/css" href="styles/style.css" rel="stylesheet" media="all"/>
+
+<style type="text/css">
+
+    .scroll {
+        height: 537px;
+        overflow: auto;
+    }
+
+    .inner-scroll {
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        height: 526px;
+        width: 3130px;
+    }
+
+    #portfolio {
+        height: 500px;
+        width: 100%;
+        color: #333;
+    }
+
+    .portfolio-block {
+        float: left;
+        border-right: 1px solid #ddd;
+        padding-bottom: 13px;
+    }
+
+    .portfolio-block a div {
+        border: none;
+    }
+
+    .portfolio-block a div img {
+        border: none;
+    }
+
+    .portfolio-square {
+        width: 243px;
+        height: 243px;
+        background: #e3e3e3;
+        float: left;
+        margin: 13px 0 0 13px;
+    }
+
+    .portfolio-square-left {
+        width: 243px;
+        height: 243px;
+        background: #e3e3e3;
+        float: left;
+        margin: 13px 0 0 13px;
+    }
+
+    .portfolio-square-right {
+        width: 243px;
+        height: 243px;
+        background: #e3e3e3;
+        float: left;
+        margin: 13px 13px 0 13px;
+    }
+
+    .portfolio-square img {
+        position: absolute;
+        width: 243px;
+    }
+
+    .portfolio-square-left img {
+        position: absolute;
+        width: 243px;
+    }
+
+    .portfolio-square-right img {
+        position: absolute;
+        width: 243px;
+    }
+
+    #block-1 {
+        width: 781px;
+    }
+
+    #block-2 {
+        width: 781px;
+    }
+
+    #block-3 {
+        width: 1293px;
+    }
+
+    #block-4 {
+        width: 269px;
+        border: none;
+    }
+
+
+
+
+</style>
+
+
+<!-- latest jQuery direct from google's CDN -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
+<!-- the mousewheel plugin - optional to provide mousewheel support -->
+<script type="text/javascript" src="scripts/jquery.mousewheel.js"></script>
+
+<!-- the jScrollPane script -->
+<script type="text/javascript" src="scripts/jquery.jscrollpane.min.js"></script>
+    <script type="text/javascript" src="scripts/onload.js"></script>
+<script type="text/javascript">
+
+    $(function(){
+        startup();
+    });
+
+</script>
+
+<title>Parrish Architecture</title>
+</head>
+<body>
+
+<div id="header" class="clearfix">
+    <div id="logo"><a href="index.html"><span class="red-title">PARRISH</span> ARCHITECTURE</a></div>
+    <ul id="menu">
+        <li><a href="portfolio.html">PORTFOLIO</a></li>
+        <li><a href="profile.html">PROFILE</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+</div>
+
+<div class="scroll">
+    <div class="inner-scroll">
+        <div id="portfolio" class="clearfix">
+
+            <div id="block-1" class="portfolio-block">
+                <a href="portfolio/SilverglenClubhouse.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/1_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/1.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/VBARecreationCenter.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/2_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/2.jpg"/>
+                    </div>
+                </a>
+
+                <a href="portfolio/GraceBibleChurch.html">
+                    <div class="portfolio-square-right">
+                        <img class="portfolio-thumb" src="images/portfolio/3_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/3.jpg"/>
+                    </div>
+                </a>
+
+                <a href="portfolio/GraceChapel.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/4_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/4.jpg"/>
+                    </div>
+                </a>
+
+                <a href="portfolio/HomerWatsonHousePotteryStudioAddition.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/5_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/5.jpg"/>
+                    </div>
+                </a>
+
+                <div class="portfolio-square-right">
+
+                </div>
+            </div>
+            <div id="block-2" class="portfolio-block">
+                <a href="portfolio/PortElgin.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/7_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/7.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/Frederick.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/8_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/8.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/Clairfield.html">
+                    <div class="portfolio-square-right">
+                        <img class="portfolio-thumb" src="images/portfolio/9_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/9.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/Cairn.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/10_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/10.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/VBAPavilion.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/11_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/11.jpg"/>
+                    </div>
+                </a>
+
+                <div class="portfolio-square-right">
+
+                </div>
+            </div>
+            <div id="block-3" class="portfolio-block">
+                <a href="portfolio/ParisResidence.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/13_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/13.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/Singles.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/14_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/14.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/VBACondominiumApartments.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/15_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/15.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/Blair.html">
+                    <div class="portfolio-square">
+                        <img class="portfolio-thumb" src="images/portfolio/16_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/16.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/Doon.html">
+                    <div class="portfolio-square-right">
+                        <img class="portfolio-thumb" src="images/portfolio/17_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/17.jpg"/>
+                    </div>
+                    <a href="portfolio/Muskoka.html">
+                        <div class="portfolio-square-left">
+                            <img class="portfolio-thumb" src="images/portfolio/18_lense.jpg"/>
+                            <img class="portfolio-thumb" src="images/portfolio/18.jpg"/>
+                        </div>
+                    </a>
+                    <a href="portfolio/Townhomes.html">
+                        <div class="portfolio-square">
+                            <img class="portfolio-thumb" src="images/portfolio/19_lense.jpg"/>
+                            <img class="portfolio-thumb" src="images/portfolio/19.jpg"/>
+                        </div>
+                    </a>
+                    <a href="portfolio/Heritage.html">
+                        <div class="portfolio-square">
+                            <img class="portfolio-thumb" src="images/portfolio/20_lense.jpg"/>
+                            <img class="portfolio-thumb" src="images/portfolio/20.jpg"/>
+                        </div>
+                    </a>
+                    <a href="portfolio/Pinnacle.html">
+                        <div class="portfolio-square">
+                            <img class="portfolio-thumb" src="images/portfolio/21_lense.jpg"/>
+                            <img class="portfolio-thumb" src="images/portfolio/21.jpg"/>
+                        </div>
+                    </a>
+                    <a href="portfolio/Crancourt.html">
+                        <div class="portfolio-square-right">
+                            <img class="portfolio-thumb" src="images/portfolio/22_lense.jpg"/>
+                            <img class="portfolio-thumb" src="images/portfolio/22.jpg"/>
+                        </div>
+                    </a>
+            </div>
+            <div id="block-4" class="portfolio-block">
+                <a href="portfolio/WWMixedUse.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/23_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/23.jpg"/>
+                    </div>
+                </a>
+                <a href="portfolio/VBAClinic.html">
+                    <div class="portfolio-square-left">
+                        <img class="portfolio-thumb" src="images/portfolio/24_lense.jpg"/>
+                        <img class="portfolio-thumb" src="images/portfolio/24.jpg"/>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="titles">
+    <div id="title1" class="title active" style="left:-3px;"><img src="images/portfolio/select_portfolio.jpg"/></div>
+</div>
+
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.modernmasonry.com/">jordan 5 cement tongue</a> <a href="http://www.asia-pacific.com/">cement tongue 5s</a> <a href="http://www.storagefeasibility.com/">low bred 11s</a> <a href="http://acoustics.com.au/gallery/about-us">jordan 5 cement tongue</a> <a href="http://www.harmonyonline.com/links.php/">jordan 5 cement tongue</a> <a href="http://www.harmonyonline.com/links.php/">space jam 5s</a> <a href="http://www.asia-pacific.com/">jordan 5 cement tongue</a> <a href="http://precisionland.net/">low bred 11s</a> <a href="http://www.modernmasonry.com/">cement tongue 5s</a> <a href="http://www.modernmasonry.com/">jordan 5 cement tongue</a> <a href="http://applied-learning.com/clients/">jordan 5 cement tongue</a> <a href="http://www.asia-pacific.com/">jordan 5 cement tongue</a> <a href="http://www.ecommercejuice.com/software/">space jam 5s</a> <a href="http://acoustics.com.au/gallery/about-us">jordan 5 cement tongue</a> <a href=""http://bambooone.com/"">jordan 11 low bred</a> <a href="http://mx1.karamcompany.com">jordan 5 space jam</a> <a href="http://servingkidshope.org/media/">cement tongue 5s</a> <a href="http://servingkidshope.org/media/">jordan 5 cement tongue</a> <a href="http://cwsinc.ca/">space jam 5s</a> <a href="http://servingkidshope.org/media/">cement tongue 5s</a> <a href="http://www.plantabbsproducts.com/">jordan 11 low citrus</a> <a href="http://www.elaineperlov.com/">low citrus 11s</a> <a href="http://danglingconcepts.com/">Jordan retro 11</a> <a href="http://servingkidshope.org/sponsors/">jordan 11 low citrus</a> <a href="http://www.glassimpressions.com/">jordan 11 low citrus</a> <a href="https://www.pinterest.com/buylowbred11s/new-release-air-jordan-13-low-bred-retro-hot-sale/">low bred 13s</a> <a href="https://www.pinterest.com/buylowbred11s/new-release-air-jordan-13-low-bred-retro-hot-sale/">low bred 13s</a> <a href="http://www.docart.com/">Jordan retro 11</a> <a href="http://cwsinc.ca/">jordan 5 space jam</a> <a href="http://servingkidshope.org/sponsors/">low citrus 11s</a> <a href="http://watc.tv/babbieshouse/">jordan 13 low bred</a> <a href="http://www.sarprofil.com.tr/">low citrus 11s</a> <a href="http://www.vinegaroonmoon.com/">jordan 13 low bred</a> <a href="http://servingkidshope.org/sponsors/">jordan 11 low citrus</a> <a href="http://www.glassimpressions.com/">low citrus 11s</a> <a href="http://servingkidshope.org/sponsors/">jordan 11 low citrus</a> <a href="http://www.phoenixgymbkk.com/">jordan 11 low citrus</a> <a href="http://www.vinegaroonmoon.com/">low bred 13s</a> <a href="http://www.sarprofil.com.tr/">low citrus 11s</a> <a href="http://www.elaineperlov.com/">low citrus 11s</a></div></body>
+</html>
