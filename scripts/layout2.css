@@ -1,0 +1,25 @@
+	/* SIDEBAR is for designs that have a left or right column built in */
+	#wb-layout-sidebar { 
+        float: right;
+		}
+		#wb-navigation-bottom div a:hover {
+			border-left-color:#E3E3E3;
+			border-left-style:solid;
+			border-left-width:5px;
+			border-right:none;
+			text-indent:10px;
+			}
+	
+	/* MAIN-CONTENT Area */
+	#wb-layout-main {
+		width:730px;
+		margin-left: 10px;
+		padding-right: 10px;
+		float: left;
+		background-color: transparent;
+		border-right-color:#E3E3E3;
+		border-right-style:solid;
+		border-right-width:5px;	
+		border-left:none;
+		margin-left:0px;
+		}

@@ -1,0 +1,81 @@
+
+	#wb-navigation-subtop {
+		background-color: #FFFFFF;
+		height:33px;
+        display:block;
+		border-left-color:#E3E3E3;
+		border-left-style:solid;
+		border-left-width:1px;
+		width:100%;
+		border-bottom-color:#E3E3E3;
+		border-bottom-style:solid;
+		border-bottom-width:5px;
+		overflow:hidden;
+	}
+
+    #wb-navigation-subtop div{
+       float: left;
+	}
+	   
+	#wb-navigation-subtop div a {
+		text-align:center;		
+	}
+
+	#wb-navigation-subtop div a:hover {
+	}
+
+    #wb-navigation-subtop div.submenu {
+	        display: none;
+            position: absolute;
+            background-color: #FFFFFF;
+    }
+
+    #wb-navigation-subtop div.submenu div {
+            display:block;
+    }
+
+    #wb-navigation-subtop div.submenu a {
+	        color: #000;
+		    background-color:#FFFFFF;
+            display: block;
+            text-align: left;
+			padding-bottom:0.5em;
+			padding-left:1em;
+			padding-right:1em;
+            margin:0px;
+		    border-bottom: 1px solid #000000;
+    }
+ 
+    #wb-navigation-subtop div.submenu a:hover {
+		    background-color: #fff;
+		    color: #000;
+    }
+   
+	#wb-navigation-subtop div {
+		float: left;
+		padding: 10px 10px 0px;
+		height: 23px;
+	}
+	
+		#wb-navigation-subtop div.submenu {
+			padding: 0px;
+			height: auto;
+		}
+			#wb-navigation-subtop div.submenu div {
+				padding: 5px 0px;
+				clear: both;
+			}
+	#wb-layout-sidebar { 
+        display: none;
+	}
+	
+	/* MAIN-CONTENT Area */
+	#wb-layout-main {
+		width:940px;
+		min-height: 100%;
+		margin-top: 5px;
+		float: none;
+		background-image: none;
+		border-right:none;
+		border-left:none;
+	}

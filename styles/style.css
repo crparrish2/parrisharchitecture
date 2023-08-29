@@ -1,0 +1,220 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	}
+	
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
+body {
+    min-width: 900px;
+}
+
+#header {
+	margin-left: 226px;
+	margin-top: 50px;
+	margin-bottom: 13px;
+	font-size: 13pt;
+	color: #AEAEAE;
+	height: 30px;
+	line-height: 30px;
+	}
+
+#logo {
+	float: left;
+	padding-right: 17px;
+	border-right: 1px solid #DDD;
+	height: 30px;
+	line-height: 30px;
+	}
+
+#logo a {
+    text-decoration: none;
+    color: #AEAEAE;
+}
+
+#menu {
+	list-style: none;
+	float: left;
+	padding-left: 7px;
+	padding-top: 1px;
+	height:29px;
+	}
+
+#menu li {
+	float: left;
+	margin-left: 10px;
+	}
+
+#menu li a {
+    text-decoration: none;
+    color: #AEAEAE;
+}
+
+#menu li a:hover {
+	color: #646464;
+	text-decoration: none;
+}
+
+.red-title {
+	font-family: 'Arial Black', Arial, sans-serif;
+    font-weight: bold;
+	color: red;
+	}
+	
+
+#slideshow {
+	border-top: 1px solid #ddd;
+	padding-top: 13px;
+	padding-left: 13px;
+	height: 487px;
+	}
+	
+#slideshow {position:relative;}
+#slideshow img{position:absolute;max-height:100%;display:none}
+
+
+.jspTrack {
+    background: white;
+}
+
+
+.jspHorizontalBar {
+    height:9px;
+}
+
+.jspDrag {
+    background: #000000;
+    background-image: url('../images/sliderinvert.png');
+}
+
+.jspCap {
+    display:block;
+    width:226px;
+    background: #FFF;
+    height:100%;
+}
+
+#titles {
+     position: relative;
+     margin-left: 225px;
+     margin-top: 18px;
+ }
+
+.title {
+    font-family: 'Arial', Arial, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    color: #c3dbd3;
+    color: #cdcdcd;
+    display: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+#titles .active {
+    display: block;
+}
+
+
+.portfolio-pictures {
+    height:500px;
+    margin: 13px;
+    width: 100%;
+}
+
+.portfolio-pictures img {
+    height: 500px;
+    max-height: 100%;
+}
+
+.portfolio-pic {
+    float: left;
+    margin-right:13px;
+    position: relative;
+}
+
+
+
+.profile-text b {
+    font-weight: bold;
+    font-family: 'Arial Black', Arial, sans-serif;
+}
+
+p {
+    margin-bottom: 23px;
+}
+
+
+#project-text {
+    position: relative;
+    margin-left: 225px;
+    margin-top: 14px;
+    margin-bottom: 80px;
+    color: #7f7f7f;
+    width: 830px;
+}
+
+#project-text img {
+}
+
+.project-title {
+    margin-bottom: 14px;
+}
+
+.subtitle {
+    margin-bottom: 18px;
+    font-size: 12pt;
+}
+
+.project-name{
+    font-family: "Arial Black", Arial, sans-serif;
+    font-weight: bold;
+}
+.project-description{
+    font-family: "Arial", Arial, sans-serif;
+    margin-left: 10px;
+}
+.description{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+.summary-table {
+    margin-top: 20px;
+
+}
+
+.summary-table table {
+    border: none;
+    border-collapse:collapse;
+    border-spacing: 0px;
+}
+
+.summary-table table tr td {
+    min-width: 200px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 11pt;
+}

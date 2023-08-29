@@ -1,0 +1,238 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 04:26:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 04:26:39 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 66.249.64.64 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 200 0 0 2486 362 296
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 04:48:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 04:48:19 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /robots.txt - 80 - 123.125.71.77 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - parrish-architecture.com 200 0 0 293 196 390
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 07:14:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 07:14:26 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+1.jpg - 80 - 207.219.44.1 HTTP/1.1 Mozilla/4.0+(compatible;) - - parrish-architecture.com 304 0 0 213 367 390
+2015-01-24 07:18:11 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/gracebiblechurch/GBC+2.jpg - 80 - 157.55.39.197 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 284030 317 2703
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 08:02:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 08:02:47 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/gracebiblechurch/Grace+Bible+Church.jpg - 80 - 157.55.39.197 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 19553 332 562
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 08:23:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 08:23:03 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/ParisResidence.html - 80 - 180.76.5.72 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.parrish-architecture.com 200 0 0 6093 259 578
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 09:20:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 09:20:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 180.76.5.72 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.parrish-architecture.com 304 0 0 298 318 437
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 10:22:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 10:22:29 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/PE+1.jpg - 80 - 207.219.44.1 HTTP/1.1 Mozilla/4.0+(compatible;) - - parrish-architecture.com 304 0 0 213 367 187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 12:47:21
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 12:47:20 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /FCKeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 166 296
+2015-01-24 12:47:21 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /site/fckeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 147 265
+2015-01-24 12:47:21 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /admin/FCKeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 148 281
+2015-01-24 12:47:21 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /admin/ckfinder/skins/kama/images/sprites.png - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 134 265
+2015-01-24 12:47:22 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /ckfinder/skins/kama/images/sprites.png - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 128 265
+2015-01-24 12:47:22 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /admin/fckeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 148 281
+2015-01-24 12:47:22 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /assetmanager/bg.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 109 281
+2015-01-24 12:47:24 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /assetmanager/download.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 115 2171
+2015-01-24 12:47:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /admin/assetmanager/bg.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 115 281
+2015-01-24 12:47:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /admin/assetmanager/download.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 121 296
+2015-01-24 12:47:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /admin/editor/assetmanager/download.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 128 281
+2015-01-24 12:47:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /editor/assetmanager/bg.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 116 281
+2015-01-24 12:47:26 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /editor/assetmanager/download.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 122 281
+2015-01-24 12:47:26 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /cms/fckeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 146 265
+2015-01-24 12:47:28 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /fck/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 136 1687
+2015-01-24 12:47:28 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /fckeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 142 281
+2015-01-24 12:47:28 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /fckeditor/fckeditor/editor/dialog/fck_about/logo_fckeditor.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 152 281
+2015-01-24 12:47:32 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /sitefinity/admin/Themes/Default/Images/button_dark_upl_dis.gif - 80 - 174.139.78.147 HTTP/1.1 User-Agent+Baiduspider - - www.parrish-architecture.com 404 0 3 1795 152 3828
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 13:14:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 13:14:02 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 198.252.44.9 HTTP/1.0 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - - parrish-architecture.com 200 0 0 2510 222 78
+2015-01-24 13:17:06 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /profile.html - 80 - 66.249.64.64 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 304 0 0 213 360 62
+2015-01-24 13:20:14 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 66.249.64.64 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 200 0 0 2486 298 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 14:00:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 14:00:47 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+2.jpg - 80 - 207.219.44.1 HTTP/1.1 Mozilla/4.0+(compatible;) - - parrish-architecture.com 304 0 0 213 367 156
+2015-01-24 14:00:48 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /robots.txt - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 293 250 125
+2015-01-24 14:00:49 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Cairn.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5883 260 281
+2015-01-24 14:00:55 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/GraceBibleChurch.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5127 271 296
+2015-01-24 14:01:00 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/SilverglenClubhouse.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5153 274 281
+2015-01-24 14:01:06 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBAClinic.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 4898 264 375
+2015-01-24 14:01:10 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Doon.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 4906 259 281
+2015-01-24 14:01:16 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Crancourt.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5296 264 359
+2015-01-24 14:01:22 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Pinnacle.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5285 263 296
+2015-01-24 14:01:27 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Muskoka.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 6035 262 265
+2015-01-24 14:01:32 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Clairfield.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5703 265 265
+2015-01-24 14:01:40 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Frederick.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 6860 264 1750
+2015-01-24 14:01:45 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/GraceChapel.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5546 266 281
+2015-01-24 14:01:50 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBAPavilion.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 4434 266 265
+2015-01-24 14:01:55 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Blair.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5613 260 281
+2015-01-24 14:02:01 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/HomerWatsonHousePotteryStudioAddition.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 7313 292 281
+2015-01-24 14:02:06 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/WWMixedUse.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5514 265 281
+2015-01-24 14:02:12 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBARecreationCenter.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5924 274 250
+2015-01-24 14:02:17 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Heritage.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5046 263 250
+2015-01-24 14:02:23 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBACondominiumApartments.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5403 279 265
+2015-01-24 14:02:28 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Townhomes.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 6054 264 250
+2015-01-24 14:02:33 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/ParisResidence.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 6093 269 250
+2015-01-24 14:02:38 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/PortElgin.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 6171 264 265
+2015-01-24 14:02:44 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Singles.html - 80 - 188.65.117.162 HTTP/1.0 CB/Nutch-1.7 - - www.parrish-architecture.com 200 0 0 5042 262 281
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 14:44:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 14:44:04 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio.html - 80 - 66.249.64.64 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 304 0 0 213 362 156
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 15:31:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 15:31:11 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /robots.txt - 80 - 180.76.5.28 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - parrish-architecture.com 200 0 0 293 196 296
+2015-01-24 15:34:18 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 180.76.6.130 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - parrish-architecture.com 304 0 0 294 314 265
+2015-01-24 15:37:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 104.154.32.19 HTTP/1.0 NerdyBot - - parrish-architecture.com 200 0 0 2510 109 46
+2015-01-24 15:41:03 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /robots.txt - 80 - 66.249.67.136 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 200 0 0 274 265 31
+2015-01-24 15:41:03 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 66.249.67.144 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 200 0 0 2486 298 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 17:05:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 17:05:28 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield.jpg - 80 - 66.249.67.136 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 21182 220 203
+2015-01-24 17:05:58 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield+4.jpg - 80 - 66.249.67.152 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 179763 224 593
+2015-01-24 17:06:36 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield+7.jpg - 80 - 66.249.67.144 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 52001 224 187
+2015-01-24 17:07:16 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield+2.jpg - 80 - 66.249.67.136 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 690658 224 1859
+2015-01-24 17:08:10 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield+10.jpg - 80 - 66.249.67.152 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 352166 225 1140
+2015-01-24 17:08:36 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield+3.jpg - 80 - 66.249.67.152 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 257080 224 687
+2015-01-24 17:09:10 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/clairfield/Clairfield+5.jpg - 80 - 66.249.67.152 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 236568 224 625
+2015-01-24 17:12:20 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/hwhg/HWHG+3.jpg - 80 - 66.249.67.144 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 200 0 0 301988 212 1000
+2015-01-24 17:14:19 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://semalt.semalt.com/crawler.php?u=http://parrish-architecture.com parrish-architecture.com 200 0 0 2486 403 218
+2015-01-24 17:14:19 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/jquery.jscrollpane.css - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 1671 349 265
+2015-01-24 17:14:19 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.mousewheel.js - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 2666 333 359
+2015-01-24 17:14:20 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/onload.js - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 3940 322 515
+2015-01-24 17:14:20 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/style.css - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 3521 336 531
+2015-01-24 17:14:22 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.jscrollpane.min.js - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 44686 338 1796
+2015-01-24 17:14:23 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/sliderinvert.png - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ www.parrish-architecture.com 200 0 0 1785 332 234
+2015-01-24 17:14:26 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Paris+3.jpg - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 160426 333 3906
+2015-01-24 17:14:27 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+1.jpg - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 219882 330 5547
+2015-01-24 17:14:29 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/VBA+RC+8.jpg - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 262904 336 6656
+2015-01-24 17:14:29 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/PE+1.jpg - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 315501 330 7156
+2015-01-24 17:14:31 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+2.jpg - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 411243 330 9047
+2015-01-24 17:14:33 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Clairfield+1.jpg - 80 - 191.178.22.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 64 505856 338 11812
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 18:27:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 18:27:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /profile.html - 80 - 66.249.67.136 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 304 0 0 213 360 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 18:51:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 18:51:09 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/VBA+RC+8.jpg - 80 - 207.219.44.1 HTTP/1.1 Mozilla/4.0+(compatible;) - - parrish-architecture.com 304 0 0 213 373 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 19:09:55
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 19:09:55 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/profile/leadership.jpg - 80 - 66.249.67.152 HTTP/1.1 Googlebot-Image/1.0 - - parrish-architecture.com 304 0 0 213 264 62
+2015-01-24 19:11:39 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - parrish-architecture.com 200 0 0 2486 161 156
+2015-01-24 19:11:40 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /robots.txt - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 274 175 109
+2015-01-24 19:11:45 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 2490 165 109
+2015-01-24 19:11:47 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /profile.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 7739 177 234
+2015-01-24 19:11:53 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /contact.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 4491 177 156
+2015-01-24 19:11:57 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 2424 175 109
+2015-01-24 19:12:01 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 11206 179 250
+2015-01-24 19:12:02 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/GraceBibleChurch.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5108 196 156
+2015-01-24 19:12:05 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Heritage.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5027 188 156
+2015-01-24 19:12:08 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBAPavilion.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 4415 191 187
+2015-01-24 19:12:10 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Cairn.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5864 185 156
+2015-01-24 19:12:16 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Frederick.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 6841 189 140
+2015-01-24 19:12:21 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/PortElgin.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 6152 189 171
+2015-01-24 19:12:26 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Muskoka.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 6016 187 156
+2015-01-24 19:12:29 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBAClinic.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 4879 189 140
+2015-01-24 19:12:31 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBACondominiumApartments.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5384 204 140
+2015-01-24 19:12:33 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Clairfield.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5684 190 140
+2015-01-24 19:12:34 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/WWMixedUse.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5495 190 140
+2015-01-24 19:12:37 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Blair.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5594 185 156
+2015-01-24 19:12:39 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Crancourt.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5277 189 125
+2015-01-24 19:12:44 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Singles.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5023 187 156
+2015-01-24 19:12:51 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/GraceChapel.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5527 191 187
+2015-01-24 19:12:54 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Townhomes.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 6035 189 171
+2015-01-24 19:12:56 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/HomerWatsonHousePotteryStudioAddition.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 7294 217 125
+2015-01-24 19:12:58 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Doon.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 4887 184 156
+2015-01-24 19:13:04 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/SilverglenClubhouse.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5134 199 156
+2015-01-24 19:13:06 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/VBARecreationCenter.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5905 199 140
+2015-01-24 19:13:11 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/Pinnacle.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 5266 188 140
+2015-01-24 19:13:12 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /portfolio/ParisResidence.html - 80 - 5.9.7.53 HTTP/1.1 Mozilla/5.0+(compatible;+AdvBot/2.0;++http://advbot.net/bot.html) - - www.parrish-architecture.com 200 0 0 6074 194 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 20:00:24
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 20:00:23 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://semalt.semalt.com/crawler.php?u=http://parrish-architecture.com parrish-architecture.com 200 0 0 2486 403 203
+2015-01-24 20:00:24 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/jquery.jscrollpane.css - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 1671 349 187
+2015-01-24 20:00:24 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/style.css - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 3521 336 343
+2015-01-24 20:00:24 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.mousewheel.js - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 2666 333 406
+2015-01-24 20:00:24 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/onload.js - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 3940 322 421
+2015-01-24 20:00:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.jscrollpane.min.js - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 44686 338 1187
+2015-01-24 20:00:25 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/sliderinvert.png - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ www.parrish-architecture.com 200 0 0 1785 332 171
+2015-01-24 20:00:28 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Paris+3.jpg - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 160426 333 3140
+2015-01-24 20:00:29 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+1.jpg - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 219882 330 4515
+2015-01-24 20:00:30 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/VBA+RC+8.jpg - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 262904 336 5468
+2015-01-24 20:00:31 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/PE+1.jpg - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 315501 330 6656
+2015-01-24 20:00:33 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+2.jpg - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 411243 330 7781
+2015-01-24 20:00:38 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Clairfield+1.jpg - 80 - 177.157.36.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 64 688128 338 12922
+2015-01-24 20:07:43 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /contact.html - 80 - 66.249.67.136 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 304 0 0 212 360 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 20:36:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 20:36:24 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Clairfield+1.jpg - 80 - 220.181.108.94 HTTP/1.1 Baiduspider-image+(+http://www.baidu.com/search/spider.htm) - http://image.baidu.com/i?ct=503316480&z=0&tn=baiduimagedetail parrish-architecture.com 200 0 0 767544 284 24547
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 20:52:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 20:52:59 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://semalt.semalt.com/crawler.php?u=http://parrish-architecture.com parrish-architecture.com 200 0 0 2486 403 234
+2015-01-24 20:52:59 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/jquery.jscrollpane.css - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 1671 349 187
+2015-01-24 20:52:59 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/style.css - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 3521 336 390
+2015-01-24 20:52:59 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.mousewheel.js - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 2666 333 390
+2015-01-24 20:52:59 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/onload.js - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 3940 322 375
+2015-01-24 20:53:00 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.jscrollpane.min.js - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 44686 338 1515
+2015-01-24 20:53:01 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/sliderinvert.png - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ www.parrish-architecture.com 200 0 0 1785 332 187
+2015-01-24 20:53:04 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Paris+3.jpg - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 160426 333 4140
+2015-01-24 20:53:05 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+1.jpg - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 219882 330 5359
+2015-01-24 20:53:07 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/VBA+RC+8.jpg - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 262904 336 6937
+2015-01-24 20:53:09 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/PE+1.jpg - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 315501 330 7906
+2015-01-24 20:53:10 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/GC+2.jpg - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 0 411243 330 9453
+2015-01-24 20:53:13 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /images/opening/Clairfield+1.jpg - 80 - 85.242.135.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://parrish-architecture.com/ parrish-architecture.com 200 0 64 509952 338 12187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 21:12:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 21:12:42 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 216.163.188.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:27.0)+Gecko/20100101+Firefox/27.0 - - parrish-architecture.com 200 0 0 2486 372 78
+2015-01-24 21:23:42 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.mousewheel.js - 80 - 220.181.108.94 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - parrish-architecture.com 200 0 0 2685 260 265
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 22:28:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 22:28:05 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 66.249.67.136 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - parrish-architecture.com 200 0 0 2486 298 46
+2015-01-24 22:37:01 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /index.html - 80 - 180.76.5.22 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.parrish-architecture.com 304 0 0 298 318 312
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-24 23:43:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-24 23:43:55 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /profile.html - 80 - 207.46.13.34 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 7739 415 531
+2015-01-24 23:44:16 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.jscrollpane.min.js - 80 - 207.46.13.34 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 44686 404 937
+2015-01-24 23:44:16 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/jquery.jscrollpane.css - 80 - 207.46.13.34 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 1671 400 125
+2015-01-24 23:44:16 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /styles/style.css - 80 - 207.46.13.34 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 3521 387 156
+2015-01-24 23:45:58 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/jquery.mousewheel.js - 80 - 157.55.39.197 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 2666 399 468
+2015-01-24 23:46:04 W3SVC2123532 W2K3-WEB46 10.30.81.56 GET /scripts/onload.js - 80 - 157.55.39.197 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - parrish-architecture.com 200 0 0 3940 388 203
